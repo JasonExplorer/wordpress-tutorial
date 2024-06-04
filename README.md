@@ -1,1 +1,1 @@
-# wordpress 教程从入门到精通
+# WordPress 教程从入门到精通
